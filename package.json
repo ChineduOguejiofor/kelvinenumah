@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://chineduoguejiofor.github.io/kelvinenumah",
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "master -d dist"
   },
   "author": "Chinedu",
   "license": "MIT",
